@@ -1,6 +1,3 @@
-"# clinica-spring-mongoDB" 
-"# clinicacitas-spring-mongoDB" 
-"# appCitas-spring-mongoDB" 
-"# appCitas-spring-mongoDB" 
-"# appCitas-spring-mongoDB" 
-"# appCitas-spring-reactivo-mongoDB" 
+## App-heroku ##
+Ignacio Armand-ugón
+Mauricio Torres
